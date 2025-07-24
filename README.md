@@ -1,2 +1,2 @@
-# victor
-A vector database system
+# OctoDB
+A Graph Database System
